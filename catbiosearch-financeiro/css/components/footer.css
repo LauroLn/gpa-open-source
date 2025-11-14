@@ -1,0 +1,52 @@
+@import url('../variables.css');
+@import url('../global.css');
+
+.site-footer {
+  background: #4B1FA6; /* Roxo GPA */
+  color: #fff; /* Branco */
+  padding: 40px 0 20px 0;
+  font-family: 'Jost', sans-serif;
+  text-align: center;
+}
+
+.footer-content {
+  max-width: 900px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
+
+.footer-logo {
+  height: 48px;
+  margin-bottom: 8px;
+}
+
+.footer-text {
+  font-size: 1rem;
+  color: #fff;
+  margin-bottom: 8px;
+}
+
+.footer-social {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 8px;
+}
+
+.footer-social a img {
+  height: 28px;
+  width: 28px;
+  transition: filter 0.2s;
+}
+
+.footer-social a img:hover {
+  filter: brightness(0) saturate(100%) invert(77%) sepia(98%) saturate(749%) hue-rotate(359deg) brightness(104%) contrast(101%); /* Laranja GPA */
+}
+
+.footer-copyright {
+  font-size: 0.95rem;
+  color: #fff;
+  opacity: 0.8;
+}
