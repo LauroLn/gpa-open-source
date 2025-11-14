@@ -1,4 +1,4 @@
-# Projeto: [Nome do Projeto]
+# Projeto: GPA
 
 ## Tarefa realizada
 Adição do **Header** e **Footer** seguindo a padronização existente no projeto. O foco desta tarefa foi estruturar o layout de forma consistente.
