@@ -1,6 +1,6 @@
 # Documentação da Equipe
 
-**Equipe:** [Nome da Sua Equipe – Ex: Aquasense]
+**Equipe:** [CatBioSearch]
 
 ## 👥 Integrantes
 
